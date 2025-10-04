@@ -1,6 +1,6 @@
 # Ex-5 Rail-Fence-Program
-# Name : Naveen Kumar .S
-# Reg No : 212224040214
+# Name : Abinesh M
+# Reg No : 212224040009
 
 # IMPLEMENTATION OF RAIL FENCE – ROW & COLUMN TRANSFORMATION TECHNIQUE
 
